@@ -1,8 +1,4 @@
-# assignment-Poll 2021
-Native CSS  kullanıldı.
-Framework olmadan compenentleri düzenlemek zordu :(
+# assignment-Poll 2021 
+This codes was created for Job interview assignment. 
 
-Json'dan gelen Data eksik (eksik datalar undefined yazdım hata almamak için) ve görseller dummy
-
-(https://app.pollective.io/poll/view/856c3ea8-aeb6-46e4-9ae9-7613a80ca1ea)
-Bu site referans alındı
+Was used vanilla css and was referenced by Example Ui Photos and text is dummy so You can not see real images and texts
